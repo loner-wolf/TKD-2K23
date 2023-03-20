@@ -212,7 +212,7 @@ footer{
 */
 
 #venue {
-  background-image: url("/res/images/1530173422440.jpeg");
+  background-image: url("res/images/1530173422440.jpeg");
   background-position: center bottom !important;
   width: 100%;
 }
