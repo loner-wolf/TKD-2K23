@@ -119,7 +119,7 @@
         // Automatically retract the navigation after clicking on one of the menu items.
         $('.navbar-collapse').collapse('hide');
 
-        e.preventDefault();
+         ();
       });
     };
 
@@ -156,7 +156,7 @@
           filter: selector
         });
 
-        e.preventDefault();
+         ();
       });
     }
     else{
@@ -198,7 +198,7 @@
       $featuresBox.bind('click', function(e){
         $featuresBox.find('.show-on-hover').removeClass('active');
         $(this).find('.show-on-hover').addClass('active');
-        e.preventDefault();
+         ();
       });
     };
 

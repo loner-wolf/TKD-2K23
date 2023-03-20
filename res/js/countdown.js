@@ -10,5 +10,5 @@ $('.countdown-timer').countdown({
 });
 
 $('a').click(function(event){
-    event.preventDefault(); 
+    event. ; 
 	});
